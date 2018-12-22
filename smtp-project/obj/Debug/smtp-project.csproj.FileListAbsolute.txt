@@ -1,0 +1,9 @@
+C:\Users\Mustafa\Desktop\c# projects\smtp-project\smtp-project\bin\Debug\smtp-project.exe.config
+C:\Users\Mustafa\Desktop\c# projects\smtp-project\smtp-project\bin\Debug\smtp-project.exe
+C:\Users\Mustafa\Desktop\c# projects\smtp-project\smtp-project\bin\Debug\smtp-project.pdb
+C:\Users\Mustafa\Desktop\c# projects\smtp-project\smtp-project\bin\Debug\EASendMail45.dll
+C:\Users\Mustafa\Desktop\c# projects\smtp-project\smtp-project\obj\Debug\smtp-project.csprojAssemblyReference.cache
+C:\Users\Mustafa\Desktop\c# projects\smtp-project\smtp-project\obj\Debug\smtp-project.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\c# projects\smtp-project\smtp-project\obj\Debug\smtp-project.csproj.CopyComplete
+C:\Users\Mustafa\Desktop\c# projects\smtp-project\smtp-project\obj\Debug\smtp-project.exe
+C:\Users\Mustafa\Desktop\c# projects\smtp-project\smtp-project\obj\Debug\smtp-project.pdb
